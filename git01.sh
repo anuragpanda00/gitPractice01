@@ -7,5 +7,7 @@ echo " $answer01 i am. But many blockers."
 echo
 echo 
 read -p "Sleep " sleep
+echo "Hi"
 echo
+
 
